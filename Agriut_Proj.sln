@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgriUtCoinConsole", "AgriUtCoinConsole\AgriUtCoinConsole.csproj", "{FF254995-81D3-47C6-9CAB-47388A30B589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartContracts", "SmartContracts\SmartContracts.csproj", "{8855BB71-244A-4C6F-BCF7-0E230A3D399B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Debug|x64.Build.0 = Debug|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Debug|x86.Build.0 = Debug|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Release|x64.ActiveCfg = Release|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Release|x64.Build.0 = Release|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Release|x86.ActiveCfg = Release|Any CPU
+		{FF254995-81D3-47C6-9CAB-47388A30B589}.Release|x86.Build.0 = Release|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Debug|x64.Build.0 = Debug|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Debug|x86.Build.0 = Debug|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Release|x64.ActiveCfg = Release|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Release|x64.Build.0 = Release|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Release|x86.ActiveCfg = Release|Any CPU
+		{8855BB71-244A-4C6F-BCF7-0E230A3D399B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

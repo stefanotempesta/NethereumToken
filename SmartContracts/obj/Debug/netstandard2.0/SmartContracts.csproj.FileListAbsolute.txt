@@ -1,0 +1,9 @@
+D:\Work\blockchain\Agriut_Proj\SmartContracts\bin\Debug\netstandard2.0\SmartContracts.deps.json
+D:\Work\blockchain\Agriut_Proj\SmartContracts\bin\Debug\netstandard2.0\SmartContracts.dll
+D:\Work\blockchain\Agriut_Proj\SmartContracts\bin\Debug\netstandard2.0\SmartContracts.pdb
+D:\Work\blockchain\Agriut_Proj\SmartContracts\obj\Debug\netstandard2.0\SmartContracts.csproj.AssemblyReference.cache
+D:\Work\blockchain\Agriut_Proj\SmartContracts\obj\Debug\netstandard2.0\SmartContracts.AssemblyInfoInputs.cache
+D:\Work\blockchain\Agriut_Proj\SmartContracts\obj\Debug\netstandard2.0\SmartContracts.AssemblyInfo.cs
+D:\Work\blockchain\Agriut_Proj\SmartContracts\obj\Debug\netstandard2.0\SmartContracts.csproj.CoreCompileInputs.cache
+D:\Work\blockchain\Agriut_Proj\SmartContracts\obj\Debug\netstandard2.0\SmartContracts.dll
+D:\Work\blockchain\Agriut_Proj\SmartContracts\obj\Debug\netstandard2.0\SmartContracts.pdb
