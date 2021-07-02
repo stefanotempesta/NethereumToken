@@ -42,9 +42,21 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "NBitcoin": {
+              "target": "Package",
+              "version": "[5.0.83, )"
+            },
+            "Nethereum.HdWallet": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
             "Nethereum.Web3": {
               "target": "Package",
               "version": "[3.8.0, )"
+            },
+            "Rijndael256.Core": {
+              "target": "Package",
+              "version": "[3.2.5, )"
             }
           },
           "imports": [

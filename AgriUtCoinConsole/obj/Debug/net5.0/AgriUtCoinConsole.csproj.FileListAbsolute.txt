@@ -34,3 +34,7 @@ D:\Work\blockchain\Agriut_Proj\AgriUtCoinConsole\obj\Debug\net5.0\AgriUtCoinCons
 D:\Work\blockchain\Agriut_Proj\AgriUtCoinConsole\obj\Debug\net5.0\ref\AgriUtCoinConsole.dll
 D:\Work\blockchain\Agriut_Proj\AgriUtCoinConsole\obj\Debug\net5.0\AgriUtCoinConsole.pdb
 D:\Work\blockchain\Agriut_Proj\AgriUtCoinConsole\obj\Debug\net5.0\AgriUtCoinConsole.genruntimeconfig.cache
+D:\Work\blockchain\Agriut_Proj\AgriUtCoinConsole\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\blockchain\Agriut_Proj\AgriUtCoinConsole\bin\Debug\net5.0\NBitcoin.dll
+D:\Work\blockchain\Agriut_Proj\AgriUtCoinConsole\bin\Debug\net5.0\Nethereum.HdWallet.dll
+D:\Work\blockchain\Agriut_Proj\AgriUtCoinConsole\bin\Debug\net5.0\Rijndael256.dll
